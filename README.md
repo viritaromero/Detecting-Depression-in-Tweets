@@ -38,6 +38,8 @@ After reading some papers about using different Machine Learning and artificial 
 
 To see the full code, check the notebook: 
 
+https://github.com/viritaromero/Detecting-Depression-in-Tweets/blob/master/Depression_detection_tweets.ipynb
+
 Datasets
 
 Sentiment140
