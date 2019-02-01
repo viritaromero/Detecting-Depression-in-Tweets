@@ -42,7 +42,7 @@ https://github.com/viritaromero/Detecting-Depression-in-Tweets/blob/master/Depre
 
 Datasets
 
-I generated a new dataset, combining part of the Sentiment140 (8,000 positive tweets), and another one for depressive tweets(2,314 tweets), with a total of 10,314 tweets.
+I generated a new dataset, combining part of the Sentiment140 (8,000 positive tweets), and another one for depressive tweets (2,314 tweets), with a total of 10,314 tweets. You can find this dataset in my repo.
 
 Sentiment140
 
